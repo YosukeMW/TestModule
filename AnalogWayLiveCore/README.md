@@ -2,7 +2,7 @@
 
 ### Version: 1.1.0
 
-AscenderTPP module is a module for controlling AnalogWay Live Core in combination with AscenderTPPHelper module.
+AscenderTPP module is a module for controlling AnalogWay LiveCore in combination with AscenderTPPHelper module.
 
 ## Installation
 
